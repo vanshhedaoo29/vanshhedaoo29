@@ -1,8 +1,7 @@
 <h1 align="center">Hello 👋, My Name is Vansh Kishor Hedaoo</h1>
 <h3 align="center">B.Tech Computer Science Engineering Ist year</h3>
 
-<img align= "right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
-
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshhedaoo29&label=Profile%20views&color=0e75b6&style=flat" alt="vanshhedaoo29" /> </p>
 
 
