@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, My Name is Vansh Kishor Hedaoo</h1>
 <h2 align="center">B.Tech Computer Science Engineering Ist year</h2>
-
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<div>
+  <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <br>
 - 🌱 I’m currently learning C, C++, HTML, CSS, Javascript
 
@@ -10,8 +10,9 @@
 - 📫 How to reach me **vanshhedaooprpote@gmail.com**
 
 - ⚡ Fun fact **I'm currently studying B.Tech Computer Science Engineering from P R POTE PATIL COLLEGE OF ENGINEERING & MANAGEMENT**
-  
-  
+</div>
+
+<br>
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vansh-hedaoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vansh-hedaoo/" width="45" height="35" /></a>
@@ -21,9 +22,9 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/vanshprpote/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vanshprpote/" width="50" height="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/vanshhedoo65/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vanshhedoo65/" width="50" height="40" /></a>
 </p>
+<hr>
 
-
-<h2 align="left">💻 My tech stack:</h2>
+<h2 align="left">💻 My Tech Stack </h2>
 <table align="left">
 <tr>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="50" height="40" alt="C"/><br><b>C </b></td>
@@ -35,23 +36,10 @@
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="50" height="40" alt="SCSS"/><br><b>SCSS</b></td>
 </tr>
 </table>
-<br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshhedaoo29&show_icons=true&locale=en&layout=compact" alt="vanshhedaoo29" /></p>
+<br><br><br><br>
+<h2 align="center">⚡ Current Stats ⚡</h2>
+<p ><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshhedaoo29&show_icons=true&locale=en&layout=compact" alt="vanshhedaoo29" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshhedaoo29&show_icons=true&locale=en" alt="vanshhedaoo29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshhedaoo29&" alt="vanshhedaoo29" /></p>
-
-
-<h2 align="center">⚡ Current Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=vanshhedaoo29&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=vanshhedaoo29&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshhedaoo29&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-  <br/>
-
-<br/><br/>
