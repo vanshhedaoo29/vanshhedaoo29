@@ -24,8 +24,8 @@
 </p>
 <hr>
 
-<h2 align="left">💻 My Tech Stack </h2>
-<table align="left">
+<h2 align="center">💻 My Tech Stack </h2>
+<table align="center">
 <tr>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="50" height="40" alt="C"/><br><b>C </b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="50" height="40" alt="C++"/><br><b>C++</b></td>
@@ -36,7 +36,7 @@
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="50" height="40" alt="SCSS"/><br><b>SCSS</b></td>
 </tr>
 </table>
-<br><br><br><br>
+
 <h2 align="center">⚡ Current Stats ⚡</h2>
 <p ><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshhedaoo29&show_icons=true&locale=en&layout=compact" alt="vanshhedaoo29" /></p>
 
