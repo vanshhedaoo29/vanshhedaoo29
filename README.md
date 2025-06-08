@@ -15,7 +15,7 @@
 <br>
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vansh-hedaoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vansh-hedaoo/" width="50" height="40" /></a>
+<a target="blank" href="https://linkedin.com/in/https://www.linkedin.com/in/vansh-hedaoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vansh-hedaoo/" width="50" height="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/vanshprpote/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vanshprpote/" width="50" height="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vanshhedaooprpo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vanshhedaooprpo1" width="50" height="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/vanshhedoo65/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vanshhedoo65/" width="50" height="40" /></a>
