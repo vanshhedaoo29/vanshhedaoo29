@@ -80,15 +80,11 @@
 <p align="center">
   <a href="mailto:vanshhedaooprpote@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/vanshhedaoo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/dyhardx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://x.com/VanshHedaoo07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- QUOTE -->
-<p align="center">
-  <img src="https://img.shields.io/badge/%22Programs%20must%20be%20written%20for%20people%20to%20read,%20and%20only%20incidentally%20for%20machines%20to%20execute.%22%20–%20Harold%20Abelson-30336b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" width="1000" alt="Tech Quote"/>
-</p>
 
 <!-- FOOTER -->
 <p align="center">
