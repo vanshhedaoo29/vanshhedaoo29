@@ -59,14 +59,6 @@
 
 ---
 
-<!-- TROPHIES -->
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanshhedaoo29&theme=radical&no-frame=true&margin-w=15&row=1&column=7"/>
-</p>
-
----
-
 <!-- CONTRIBUTION GRAPH -->
 ## 🚀 Contribution Graph
 <p align="center">
